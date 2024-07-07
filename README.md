@@ -22,15 +22,16 @@
 
 ###
 
-<h3 align="center">A Passionate Backend Developer From Egypt</h3>
+<h3 align="center">Backend Developer</h3>
 
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
+<!--
 <p align="left">🚀 ITI graduate<br>👩🏻‍🎓 Studied Communications and Electronics Engineering at the University of Port Said<br>🌱 I’m currently learning Nodejs, MongoDB<br>💬 Ask me about PHP, Laravel, MySQL<br>⚡ In my free time I watch adventure time and listen to Egyptian trap artists</p>
+-->
 
 ###
 
