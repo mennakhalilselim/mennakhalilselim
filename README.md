@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Menna Selim
 
-**Java ☕ | Spring Boot 🌱 | PHP 🐘 | Laravel <i class="fa-brands fa-laravel" style="color: #ff2d20;"></i> | Backend Developer 💻**
+**Java ☕ | Spring Boot 🌱 | PHP 🐘 | Laravel 🔴 | Backend Developer 💻**
 
 > Building robust backend systems, one Spring Bean at a time
 
